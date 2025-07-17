@@ -1,0 +1,9 @@
+{
+  "name": "abcd-vuln-demo",
+  "version": "1.0.0",
+  "description": "Demo project with real open source vulnerabilities for Snyk testing",
+  "main": "app.js",
+  "dependencies": {
+    "express": "4.16.0"
+  }
+}
